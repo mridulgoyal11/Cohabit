@@ -106,34 +106,7 @@ When students graduate and move to new cities for jobs or higher education, find
 - **Fast Navigation** - Smooth routing with React Router
 - **Global State Management** - Efficient state handling with Redux
 
----
 
-## 📸 Screenshots
-
-### **Sign Up Page**
-![Sign Up Page](./screenshots/signupPage.png)
-### **Login Page**
-![Login Page](./screenshots/loginPage.png)
-### **Edit Profile Page**
-![Edit Profile Page](./screenshots/editProfilePage.png)
-### **Feed Page**
-![Feed Page](./screenshots/feedPage.png)
-### **City Autocomplete in Feed**
-![Feed Page](./screenshots/autocomplete.png)
-### **Filter Profiles by city**
-![Feed Page](./screenshots/cityFilter.png)
-### **Connection Requests Page**
-![Connection Requests Page](./screenshots/connectionRequestsPage.png)
-### **Connections Page**
-![Connections Page](./screenshots/connectionsPage.png)
-### **Chatting Page**
-![Chatting Page](./screenshots/chatPage.png)
-### **Responsive Design**
-![Responsive Design](./screenshots/responsiveChatPage.png)
-### **Page Not Found**
-![Page Not Found](./screenshots/404pageNotFound.png)
-
----
 
 ## 💡 How to Use
 
@@ -235,12 +208,3 @@ Ensure your MongoDB instance is running
 - Enhanced Security - Add two-factor authentication
 
 
----
-
-## 👤 Author & Contact
-**Developer Information**:
-Tushar Srivastava
-
-- **GitHub**: @official-tushar
-- **LinkedIn**: tusharsrivastava8404
-- **Email**: tusharsrivastava8404@gmail.com
