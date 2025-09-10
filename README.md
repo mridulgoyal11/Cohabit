@@ -139,7 +139,7 @@ When students graduate and move to new cities for jobs or higher education, find
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/official-tushar/ShareNest.git
+git clone https://github.com/mridulgoyal11/Cohabit.git
 cd ShareNest
 ```
 #### 2. Install Backend Dependencies
