@@ -1,6 +1,6 @@
-# ShareNest 🏠
+# CoHabit 🏠
 
-**ShareNest** is a comprehensive roommate-finding web application designed to help people—especially recent graduates—find compatible flatmates that match their preferences, location, and lifestyle. Moving to a new city is challenging, and finding the right person to share a space with shouldn't add to the stress.
+**CoHabit** is a comprehensive roommate-finding web application designed to help people—especially recent graduates—find compatible flatmates that match their preferences, location, and lifestyle. Moving to a new city is challenging, and finding the right person to share a space with shouldn't add to the stress.
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ## 🔥 Core Idea & Inspiration
 
-When students graduate and move to new cities for jobs or higher education, finding a compatible flatmate becomes a crucial but often stressful task. Traditional methods like social media posts or classified ads often lack the depth needed to find truly compatible roommates. **ShareNest** bridges this gap by providing a comprehensive platform where users can:
+When students graduate and move to new cities for jobs or higher education, finding a compatible flatmate becomes a crucial but often stressful task. Traditional methods like social media posts or classified ads often lack the depth needed to find truly compatible roommates. **CoHabit** bridges this gap by providing a comprehensive platform where users can:
 
 - Create detailed profiles with preferences and lifestyle choices
 - Discover potential flatmates through their feed section
@@ -60,13 +60,7 @@ When students graduate and move to new cities for jobs or higher education, find
 - **Socket.io** - Real-time bidirectional communication
 - **CORS** - Handling cross-origin requests
 
----
 
-## 🚀 Live Demo
-
-🌐 [Visit ShareNest Live](https://share-nest-zeta.vercel.app/)
-
----
 
 ## ✨ Features Implemented
 
